@@ -88,14 +88,7 @@ public class Ranking {
 				System.out.print("Team" + (i + 2) + "\t");
 			}
 		}
-		// find largest- place it in new array
-		// find all the numbers equal to that largest and place it in the new array
-		// find the spot where it was found and put the condition to not check those
-		// numbers again
-
-		// loop again until array is reduced to zero
-
-		// System.out.println("\n" + largest + " " + k + " " + l);
+	
 		keyboard.close();
 	}
 }
